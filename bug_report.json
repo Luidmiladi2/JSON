@@ -1,1 +1,10 @@
-
+{
+  "ID": "1",
+  "Title": "no check for «Описание» max length",
+  "Authour": "Luidmila",
+  "severity": "minor",
+  "Priority": "low",
+  "Environment": "Chrome",
+  "AR": "250 characters max",
+  "ER": "more than 250 Characters"
+}
