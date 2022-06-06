@@ -5,6 +5,6 @@
   "severity": "minor",
   "Priority": "low",
   "Environment": "Chrome",
-  "AR": "250 characters max",
-  "ER": "more than 250 Characters"
+  "AR": "250 symbols max",
+  "ER": "more than 250 symbols"
 }
